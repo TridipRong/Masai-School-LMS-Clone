@@ -32,7 +32,7 @@ This is the Masai Build and Earn Project. We will builld the rest apis for the M
 
 ## Installation
 ```
-Clone Url : https://github.com/masai-builds/Team4.git
+Clone Url : https://github.com/TridipRong/Masai-School-LMS-Clone.git
 ```
 ### Frontend Installation
 - Open Project In Vs Code or Another ide
